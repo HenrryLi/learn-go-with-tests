@@ -1,0 +1,6 @@
+{
+    "root": "./zh-CN",
+    "structure": {
+        "readme": "gb-readme.md"
+    }
+}
